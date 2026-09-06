@@ -136,6 +136,7 @@ See [CHANGELOG.md](https://github.com/zhimin-dev/iptv-checker/blob/main/CHANGELO
 
 ### Recent Updates
 
+- **5.0.0** — Auto channel icon collection (favourite-channel + check task sources), scheduled-task hang fix with concurrent execution, "run now" button shown only when next run is >3 minutes away, relative snapshot age badges, fixed-width player grid
 - **4.7.0** — EPG channel name auto-matching, resolution suffix display modes, channel group mapping, unified global host management, group mapping import/export support
 - **4.6.0** — GitHub scraping migration to REST API, security hardening (SSRF / path traversal fixes), performance optimizations (connection pool reuse, reduced cloning), code quality improvements, 11 bug fixes
 - **4.5.1** — Fixed issues with checks not executing, added CLI trigger support
